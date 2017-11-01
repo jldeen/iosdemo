@@ -434,7 +434,7 @@
 				DEVELOPMENT_TEAM = 37VPR57EPS;
 				INFOPLIST_FILE = Test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.xamarin.Test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jessicadeen;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -448,7 +448,7 @@
 				DEVELOPMENT_TEAM = 37VPR57EPS;
 				INFOPLIST_FILE = Test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.xamarin.Test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jessicadeen;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
